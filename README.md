@@ -42,7 +42,7 @@
 Responsive personal portfolio built to showcase my projects, skills, and growth as a developer.
 Built with HTML, CSS, and JavaScript, with a focus on clean layout and mobile-friendly design.
 
-[Live Demo](PASTE_YOUR_PORTFOLIO_LINK_HERE) | [Code](PASTE_YOUR_PORTFOLIO_REPO_LINK_HERE)
+[Live Demo](https://mikegmora.github.io/portfolio/) | [Code](https://github.com/mikegmora/portfolio)
 
 ## 📱 Mobile App Projects
 
@@ -51,7 +51,7 @@ Built with HTML, CSS, and JavaScript, with a focus on clean layout and mobile-fr
 Java-based Android app with a futuristic interface and a strong visual identity.
 It connects riders with motorized rickshaw drivers. The platform includes interactive dashboards, a digital wallet, and trip management.
 
-[Code](PASTE_YOUR_CAPONERA_REPO_LINK_HERE)
+[Code](https://github.com/mikegmora/caponera)
 
 ---
 
