@@ -21,18 +21,19 @@
 
 ## 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="25"/>
+  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="25"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square\&logo=github\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-
+---
 
 ## 🚀 Projects
 
