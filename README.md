@@ -35,25 +35,28 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Web Projects
 
-### 🌐 Portfolio Website
+### 🌐 Portfolio
 
-* Built with HTML, CSS, JavaScript
-* Fully responsive design
-* Deployed with GitHub Pages
+Responsive personal portfolio built to showcase my projects, skills, and growth as a developer.
+Built with HTML, CSS, and JavaScript, with a focus on clean layout and mobile-friendly design.
 
-### 📱 Caponera Mobile App
+[Live Demo](PASTE_YOUR_PORTFOLIO_LINK_HERE) | [Code](PASTE_YOUR_PORTFOLIO_REPO_LINK_HERE)
 
-* Java-based Android app
-* Focused on UI design and navigation
-* Futuristic and high-contrast interface
+## 📱 Mobile App Projects
+
+### 🏍️ Caponera
+
+Java-based Android app with a futuristic interface and a strong visual identity.
+It connects riders with motorized rickshaw drivers. The platform includes interactive dashboards, a digital wallet, and trip management.
+
+[Code](PASTE_YOUR_CAPONERA_REPO_LINK_HERE)
 
 ---
 
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Mora-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/michaelgmora)
-
 [![Email](https://img.shields.io/badge/Email-mikegmora1%40gmail.com-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:mikegmora1@gmail.com)
 
