@@ -60,3 +60,9 @@ It connects riders with motorized rickshaw drivers. The platform includes intera
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Mora-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/michaelgmora)
 [![Email](https://img.shields.io/badge/Email-mikegmora1%40gmail.com-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:mikegmora1@gmail.com)
 
+---
+
+## ☕ Buy Me A Coffee
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H21XNYW4)
+
