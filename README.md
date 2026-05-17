@@ -1,21 +1,8 @@
 # 👋 Hi, I'm Michael Mora
 
 💻 Computer Science student at Long Beach City College<br/>
-🎯 Future Software Engineer transferring to CSU Monterey Bay<br/>
-🌐 Focused on Front-End Web Development with JavaScript and modern frameworks<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mikegmora&theme=radical)
-
----
-
-## 📚 Currently Learning
-
-* JavaScript and DOM manipulation
-* Responsive Web Design and Front-End Development
-* Data Structures and Algorithms
-* Discrete Structures
-* Android App Development (Java + Android SDK)
-* UI and user experience principles
+🎯 Future Software Engineer transferring<br/>
+🌐 Focused on Front-End Development<br/>
 
 ---
 
