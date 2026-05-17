@@ -2,7 +2,7 @@
 
 💻 Computer Science student at Long Beach City College<br/>
 🎯 Future Software Engineer<br/>
-🌐 Focused on Front-End Development<br/>
+🌐 Focused on Full-Stack Development<br/>
 
 ---
 
