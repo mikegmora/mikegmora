@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Michael Mora
 
 💻 Computer Science student at Long Beach City College<br/>
-🎯 Future Software Engineer transferring<br/>
+🎯 Future Software Engineer<br/>
 🌐 Focused on Front-End Development<br/>
 
 ---
